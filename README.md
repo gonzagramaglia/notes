@@ -37,3 +37,5 @@ _Official website: https://showdownjs.com/_
 ```bash
 npm install -legacy-peer-deps nanoid react-split react-mde showdown
 ```
+
+#### Then it is necessary to update the package.json so that the React and React-dom dependencies are from version 17.0.2. So they will not conflict with the other dependencies
