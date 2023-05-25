@@ -13,33 +13,33 @@ during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><b
 
 
 
-* **Creation of the React project template using Vite:**
+### Creation of the React project template using Vite:**
 ```bash
 npm create vite@latest ./ -- --template react
 ```
 
 <br><br>
 
-* **Dependencies that were used, along with the command to install them:**
+### Dependencies that were used, along with the command to install them:**
 
-#### NanoId
+* **NanoId**
 _Official website: https://github.com/ai/nanoid_
 ```bash
 npm install nanoid
 ```
 
-#### React Split
+* **React Split**
 _Official website: https://split.js.org/_
 ```bash
 npm install -legacy-peer-deps react-split
 ```
 
-#### React Markdown Editor
+* **React Markdown Editor**
 _Official website: https://github.com/andrerpena/react-mde_ 
 ```bash
 npm install -legacy-peer-deps react-mde
 ```
-#### Showdown
+* **Showdown**
 _Official website: https://showdownjs.com/_
 ```bash
 npm install -legacy-peer-deps showdown
