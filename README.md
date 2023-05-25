@@ -1,12 +1,12 @@
 
 ## Hey, I'm **[gonza](https://www.gonza.uno/)**
-It's good to see that you have been interested in understanding this repository!<br><br>
+It's good to see that you have been interested in understanding this repository.<br><br>
 
 
 
 First of all I want to thank Bob Ziroll ([@bobziroll](https://twitter.com/bobziroll)) 
 who was my guide in the development adventure of this project, 
-during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** 🧑‍🚀🚀✨<br><br><br><br>
+during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><br><br><br>
 
 
 
