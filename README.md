@@ -18,7 +18,7 @@ during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><b
 npm create vite@latest ./ -- --template react
 ```
 
-<br><br>
+<br>
 
 #### Dependencies that were used, along with the command to install them:
 
