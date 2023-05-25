@@ -1,4 +1,4 @@
-import React, { useState, useEffect} from "react"
+import React, { useState, useEffect } from "react"
 import Navbar from "./components/Navbar"
 import Sidebar from "./components/Sidebar"
 import Editor from "./components/Editor"
@@ -31,6 +31,18 @@ export default function App() {
                 ? { ...oldNote, body: text }
                 : oldNote
         }))
+
+        setNotes(oldNotes => {
+          const newNotes = [];
+          oldNotes.forEach(oldNote => {
+            if (oldNote.id === currentNoteId) {
+              newNotes.unshift({ ...oldNote, body: text });
+            } else {
+              newNotes.push(oldNote);
+            }
+          });
+          return newNotes;
+        });
     }
     
     function findCurrentNote() {
