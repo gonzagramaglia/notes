@@ -24,23 +24,16 @@ npm create vite@latest ./ -- --template react
 
 * **NanoId**
 _Official website: https://github.com/ai/nanoid_
-```bash
-npm install nanoid
-```
 
 * **React Split**
 _Official website: https://split.js.org/_
-```bash
-npm install -legacy-peer-deps react-split
-```
 
 * **React Markdown Editor**
 _Official website: https://github.com/andrerpena/react-mde_ 
-```bash
-npm install -legacy-peer-deps react-mde
-```
+
 * **Showdown**
 _Official website: https://showdownjs.com/_
+
 ```bash
-npm install -legacy-peer-deps showdown
+npm install -legacy-peer-deps nanoid react-split react-mde showdown
 ```
