@@ -1,12 +1,12 @@
 
 ## Hey, I'm **[gonza](https://www.gonza.uno/)**
-It's good to see that you have been interested in understanding this repository
+It's good to see that you have been interested in understanding this repository<br><br>
 
 
 
 First of all I want to thank Bob Ziroll ([@bobziroll](https://twitter.com/bobziroll)) 
 who was my guide in the development adventure of this project, 
-during the journey of the **[Scrimba Frontend Developer Path](https://scrimba.com/)**
+during the **[Scrimba Frontend Developer Path](https://scrimba.com/)**<br><br><br><br>
 
 
 
@@ -18,7 +18,7 @@ during the journey of the **[Scrimba Frontend Developer Path](https://scrimba.co
 npm create vite@latest ./ -- --template react
 ```
 
-
+<br><br>
 
 * **Dependencies that were used, along with the command to install them:**
 
