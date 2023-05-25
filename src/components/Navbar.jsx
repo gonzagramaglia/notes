@@ -18,7 +18,7 @@ const Navbar = () => {
             className='github-logo-container'
             target="_blank"
         >
-            <FaGithub size={28} style={{ color: '#a9a6c3' }} />
+            <FaGithub size={23} style={{ color: '#a9a6c3' }} />
         </a>
     </nav>
   )

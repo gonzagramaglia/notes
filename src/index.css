@@ -136,19 +136,19 @@ button:focus {
 
 nav {
   background: #050816;
-  height: 100px;
+  height: 110px;
   display: flex;
   align-items: center;
 }
 
 .logo {
-  height: 30px;
-  padding-left: 85px;
+  height: 25px;
+  padding-left: 75px;
 }
 
 .github-logo-container {
   margin-left: auto;
-  margin-right: 85px;
+  margin-right: 75px;
 }
 
 @media (max-width: 640px) {
