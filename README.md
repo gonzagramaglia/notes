@@ -40,8 +40,10 @@ npm install -legacy-peer-deps nanoid react-split react-mde showdown
 
 <br>
 
-#### To finish the project setup is necessary to update the package.json so that the React and React-dom dependencies are from version 17.0.2. So they will not conflict with the other dependencies
+#### To finish the project setup it was necessary to update the package.json so that the React and React-dom dependencies are from version 17.0.2. So they will not conflict with the other dependencies
 
 <br>
-
+<br>
+Added feature: when adding my custom navbar I had to adjust the height of the editor, sidebar and initial screen (no-notes) from 100vh to 85vh. And also I had to install the 'react-icons' dependency, to add the github icon.
+<br>
 
