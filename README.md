@@ -6,21 +6,21 @@ It's good to see that you have been interested in understanding this repository
 
 First of all I want to thank Bob Ziroll ([@bobziroll](https://twitter.com/bobziroll)) 
 who was my guide in the development adventure of this project, 
-during the journey of the **Scrimba Frontend Developer Path** ([scrimba.com](https://scrimba.com/))
+during the journey of the **[Scrimba Frontend Developer Path]((https://scrimba.com/))**
 
 
 
 
 
 
-##### Creation of the React project template using Vite
+* **Creation of the React project template using Vite**
 ```bash
 npm create vite@latest ./ -- --template react
 ```
 
 
 
-##### Dependencies that were used, along with the command to install them:
+* **Dependencies that were used, along with the command to install them:**
 
 #### NanoId
 _Official website: https://github.com/ai/nanoid_
