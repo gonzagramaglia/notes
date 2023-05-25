@@ -6,7 +6,7 @@ It's good to see that you have been interested in understanding this repository
 
 First of all I want to thank Bob Ziroll ([@bobziroll](https://twitter.com/bobziroll)) 
 who was my guide in the development adventure of this project, 
-during the journey of the **[Scrimba Frontend Developer Path]((https://scrimba.com/))**
+during the journey of the **[Scrimba Frontend Developer Path](https://scrimba.com/)**
 
 
 
