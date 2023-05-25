@@ -136,13 +136,13 @@ button:focus {
 
 nav {
   background: #050816;
-  height: 130px;
+  height: 100px;
   display: flex;
   align-items: center;
 }
 
 .logo {
-  height: 35px;
+  height: 30px;
   padding-left: 85px;
 }
 
@@ -153,7 +153,6 @@ nav {
 
 @media (max-width: 640px) {
   .logo {
-    height: 35px;
     padding-left: 30px;
   }
 }
