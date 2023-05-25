@@ -13,14 +13,14 @@ during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><b
 
 
 
-### Creation of the React project template using Vite:**
+#### Creation of the React project template using Vite:
 ```bash
 npm create vite@latest ./ -- --template react
 ```
 
 <br><br>
 
-### Dependencies that were used, along with the command to install them:**
+#### Dependencies that were used, along with the command to install them:
 
 * **NanoId**
 _Official website: https://github.com/ai/nanoid_
