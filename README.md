@@ -12,6 +12,8 @@ during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><b
 
 📌 **LIVE DEMO: _https://notes.gonza.uno/_**
 
+![Notes Demo Preview](../asssets/notes.png)
+
 <br><br><br><br>
 
 
