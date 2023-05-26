@@ -12,7 +12,7 @@ during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><b
 
 📌 **LIVE DEMO: _https://notes.gonza.uno/_**
 
-![Notes Demo Preview](./src/assets/notes.png)
+[![Notes Demo Preview](./src/assets/notes.png)](https://notes.gonza.uno/)
 
 <br><br><br>
 
