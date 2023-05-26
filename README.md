@@ -1,18 +1,18 @@
 
-## Hey, I'm **[gonza](https://www.gonza.uno/){target="_blank"}**
+## Hey, I'm **[gonza](https://www.gonza.uno/)**
 It's good to see that you have been interested in understanding this repository.<br><br>
 
 
 
-First of all I want to thank Bob Ziroll ([@bobziroll](https://twitter.com/bobziroll){target="_blank"}) 
+First of all I want to thank Bob Ziroll ([@bobziroll](https://twitter.com/bobziroll)) 
 who was my guide in the development adventure of this project, 
-during the **[Scrimba Frontend Developer Path](https://scrimba.com/){target="_blank"}** ✨<br><br><br>
+during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><br><br>
 
 
 
-📌 **LIVE DEMO: _[https://notes.gonza.uno/](https://notes.gonza.uno/){target="_blank"}_**
+📌 **LIVE DEMO: _https://notes.gonza.uno/_**
 
-[![Notes Demo Preview](./src/assets/notes.png)](https://notes.gonza.uno/){target="_blank"}
+[![Notes Demo Preview](./src/assets/notes.png)](https://notes.gonza.uno/)
 
 <br><br><br>
 
