@@ -6,7 +6,12 @@ It's good to see that you have been interested in understanding this repository.
 
 First of all I want to thank Bob Ziroll ([@bobziroll](https://twitter.com/bobziroll)) 
 who was my guide in the development adventure of this project, 
-during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><br><br><br>
+during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><br>
+
+
+**LIVE DEMO: _https://notes.gonza.uno/_**
+
+<br><br><br><br>
 
 
 
@@ -23,19 +28,22 @@ npm create vite@latest ./ -- --template react
 #### Dependencies that were used, along with the command to install them:
 
 * **NanoId**
-_Official website: https://github.com/ai/nanoid_
+_Official website: https://github.com/ai/nanoid_ (to add random id to notes)
 
 * **React Split**
-_Official website: https://split.js.org/_
+_Official website: https://split.js.org/_ (to split the screen in two and allow the user to adjust it freely)
 
 * **React Markdown Editor**
-_Official website: https://github.com/andrerpena/react-mde_ 
+_Official website: https://github.com/andrerpena/react-mde_ (to style the text with markdown)
 
 * **Showdown**
-_Official website: https://showdownjs.com/_
+_Official website: https://showdownjs.com/_ (to convert the text with markdown in html and be able to visualize it)
+
+* **React Icons**
+_Official website: https://github.com/react-icons/react-icons_ (to use icons)
 
 ```bash
-npm install -legacy-peer-deps nanoid react-split react-mde showdown
+npm install -legacy-peer-deps nanoid react-split react-mde showdown react-icons
 ```
 
 <br>
@@ -44,6 +52,6 @@ npm install -legacy-peer-deps nanoid react-split react-mde showdown
 
 <br>
 <br>
-Added feature: when adding my custom navbar I had to adjust the height of the editor, sidebar and initial screen (no-notes) from 100vh to 85vh. And also I had to install the 'react-icons' dependency, to add the github icon.
+Added feature: when adding my custom navbar I had to adjust the height of the editor, sidebar and initial screen (no-notes) from 100vh to 85vh.
 <br>
 
