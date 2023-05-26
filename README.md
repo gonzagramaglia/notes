@@ -9,10 +9,10 @@ who was my guide in the development adventure of this project,
 during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><br>
 
 
-**LIVE DEMO: _https://notes.gonza.uno/_**
+
+📌 **LIVE DEMO: _https://notes.gonza.uno/_** ✍
 
 <br><br><br><br>
-
 
 
 
