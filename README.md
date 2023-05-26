@@ -14,7 +14,7 @@ during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><b
 
 ![Notes Demo Preview](./src/assets/notes.png)
 
-<br><br><br><br>
+<br><br><br>
 
 
 
@@ -56,4 +56,4 @@ npm install -legacy-peer-deps nanoid react-split react-mde showdown react-icons
 <br>
 Added feature: when adding my custom navbar I had to adjust the height of the editor, sidebar and initial screen (no-notes) from 100vh to 85vh.
 <br>
-
+<br>
