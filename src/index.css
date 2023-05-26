@@ -157,4 +157,19 @@ nav {
   }
 }
 
+.delete-btn {
+  margin-right: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
 
+.trash-icon {
+  color: white;
+  font-size: 15px;
+  margin-bottom: -2px;
+}
+
+.trash-icon:hover {
+  color: #060816;
+}

@@ -44,6 +44,14 @@ export default function App() {
           return newNotes;
         });
     }
+
+    function deleteNote(e, noteId) {
+      e.stopPropagation()
+      setNotes(oldNotes => {
+        return oldNotes.filter( oldNote => oldNote.id !== noteId);
+      });
+    }
+  
     
     function findCurrentNote() {
         return notes.find(note => {
@@ -67,6 +75,7 @@ export default function App() {
                     currentNote={findCurrentNote()}
                     setCurrentNoteId={setCurrentNoteId}
                     newNote={createNewNote}
+                    deleteNote={deleteNote}
                 />
                 {
                     currentNoteId && 

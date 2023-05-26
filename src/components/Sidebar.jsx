@@ -1,4 +1,5 @@
 import React from "react"
+import { FaTrash } from 'react-icons/fa';
 
 const Sidebar = (props) => {
     const noteElements = props.notes.map((note) => (
@@ -11,6 +12,12 @@ const Sidebar = (props) => {
                 onClick={() => props.setCurrentNoteId(note.id)}
             >
                 <h4 className="text-snippet">{ note.body.split('\n')[0] }</h4>
+                <button 
+                    className="delete-btn"
+                    onClick={(e) => props.deleteNote(e, note.id) }
+                >
+                    <FaTrash className="trash-icon" />
+                </button>
             </div>
         </div>
     ))
