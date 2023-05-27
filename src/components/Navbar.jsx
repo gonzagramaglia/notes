@@ -14,7 +14,7 @@ const Navbar = () => {
             <img src={logo} alt="logo" className='logo' /> 
         </a>
         <a 
-            href="https://github.com/gonzagramaglia/notes-app" 
+            href="https://github.com/gonzagramaglia/notes" 
             className='github-logo-container'
             target="_blank"
         >
