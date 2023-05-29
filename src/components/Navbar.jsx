@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav>
         <a 
-            href="https://www.gonza.uno/" 
+            href="https://www.gonza.gr/" 
             target="_blank"
         >
             <img src={logo} alt="logo" className='logo' /> 
