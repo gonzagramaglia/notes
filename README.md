@@ -1,5 +1,5 @@
 
-## Hey, I'm **[gonza](https://www.gonza.gr/)**
+## Hey, I'm **[Gonza](https://www.gonza.works/)**
 It's good to see that you have been interested in understanding this repository.<br><br>
 
 
@@ -10,9 +10,9 @@ during the **[Scrimba Frontend Developer Path](https://scrimba.com/)** ✨<br><b
 
 
 
-📌 **LIVE DEMO: _https://notes.gonza.gr/_**
+📌 **LIVE DEMO: _https://notes.gonza.works/_**
 
-[![Notes Demo Preview](./src/assets/notes.png)](https://notes.gonza.gr/)
+[![Notes Demo Preview](./src/assets/notes.png)](https://notes.gonza.works/)
 
 <br><br><br>
 
